@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Still D.R.E.",
+  "base_artist": "Dr. Dre",
+  "createdAt": "2026-02-28T07:29:24.306849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still D.R.E. - Still D.R.E.",
+      "artist": "Dr. Dre, Snoop Dogg - Dr. Dre",
+      "has_synced": true,
+      "path": "select/01_Still_D.R.E._-_Still_D.R.E._Dr._Dre,_Snoop_Dogg_-_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "Dog",
+      "has_synced": true,
+      "path": "select/02_Still_D.R.E._Dog.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "Dre",
+      "has_synced": true,
+      "path": "select/03_Still_D.R.E._Dre.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/04_Still_D.R.E._Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "ドクター・ドレー",
+      "has_synced": true,
+      "path": "select/05_Still_D.R.E._ドクター・ドレー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Still D.R.E",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/06_Still_D.R.E_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "Dr Dre",
+      "has_synced": true,
+      "path": "select/07_Still_D.R.E._Dr_Dre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_Still_D.R.E._Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Still D.R.E.",
+      "artist": "Pop",
+      "has_synced": true,
+      "path": "select/09_Still_D.R.E._Pop.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/pl_01_Still_D.R.E._Dr._Dre.txt"
+    }
+  ]
+}
